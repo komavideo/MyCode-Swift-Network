@@ -19,3 +19,7 @@ https://github.com/Alamofire/Alamofire
 ### AFNetworking
 
 https://github.com/AFNetworking/AFNetworking
+
+### SDWebImageSwiftUI
+
+https://github.com/SDWebImage/SDWebImageSwiftUI
