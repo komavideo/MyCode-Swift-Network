@@ -1,2 +1,7 @@
-# MyCode-Swift-Network
 Swift网络存取代码演示
+===================
+
+## 执行环境
+
++ Xcode 12
++ iOS 14+
