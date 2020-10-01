@@ -23,3 +23,7 @@ https://github.com/AFNetworking/AFNetworking
 ### SDWebImageSwiftUI
 
 https://github.com/SDWebImage/SDWebImageSwiftUI
+
+### BBSwiftUIKit
+
+https://github.com/Silence-GitHub/BBSwiftUIKit
