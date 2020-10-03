@@ -27,3 +27,7 @@ https://github.com/SDWebImage/SDWebImageSwiftUI
 ### BBSwiftUIKit
 
 https://github.com/Silence-GitHub/BBSwiftUIKit
+
+### SideMenu
+
+https://github.com/jonkykong/SideMenu
